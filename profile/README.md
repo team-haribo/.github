@@ -1,7 +1,7 @@
 
 # GOMS
 
-**Gwangju Outing Management System**
+**GSM Outing Management System**
 
 광주소프트웨어마이스터고등학교 학생들을 위한 외출제 관리 서비스입니다.
 
@@ -29,13 +29,9 @@ QR코드를 활용한 외출·복귀 관리부터 실시간 외출 현황 조회
 [iOS App Store](https://apps.apple.com/kr/app/goms/id6502936560) · [Google Play](https://play.google.com/store/apps/details?id=com.goms.goms_android_v2)
 
 <p>
-  <a href="https://apps.apple.com/kr/app/goms/id6502936560">
-    <img src="https://github.com/cau-bootcamp/wehavit/assets/39216546/754ff73d-5ef4-42c4-a643-be1bbee58e13" alt="Download on the App Store" width="180">
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.goms.goms_android_v2">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png" alt="Get it on Google Play" width="180">
-  </a>
-</p>
+  <a href="https://apps.apple.com/kr/app/goms/id6502936560"><img src="https://github.com/cau-bootcamp/wehavit/assets/39216546/754ff73d-5ef4-42c4-a643-be1bbee58e13" alt="Download on the App Store" width="180"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.goms.goms_android_v2"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png" alt="Get it on Google Play" width="180"></a>
+</p> 
 
 ### 프로젝트 저장소
 
